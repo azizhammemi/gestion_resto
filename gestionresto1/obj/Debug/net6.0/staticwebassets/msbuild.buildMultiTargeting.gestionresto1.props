@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gestionresto1.props" />
+</Project>

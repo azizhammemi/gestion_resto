@@ -1,0 +1,88 @@
+﻿@model IEnumerable<gestionresto1.Models.Commande>
+
+@{
+    ViewData["Title"] = "Index";
+ 
+}
+
+
+
+<p>
+    
+</p>
+@if (!string.IsNullOrEmpty(ViewBag.UserName) && !string.IsNullOrEmpty(ViewBag.userSurname))
+{
+    <h4>list de votre commande :@ViewBag.UserName</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.nomuser)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.prenomuser)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.nomproduit)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.numero)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.quantity)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.prix)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.image)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                @if (ViewBag.UserName == item.prenomuser && ViewBag.userSurname==item.nomuser)
+                {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.nomuser)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.prenomuser)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.nomproduit)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.numero)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.quantity)
+                    </td>
+                    <td>
+                        @{
+                            decimal total = item.prix * item.quantity;
+                        }
+                        @Html.DisplayFor(modelItem => total)
+                    </td>
+                    <td>
+                        <img src="@item.image" alt="Product Image" style="height: 100px; width: 100px;" />
+                    </td>
+
+                    <td>
+
+                            <a asp-action="Deletecommande" asp-route-id="@item.idcommande">Delete</a>
+                    </td>
+                </tr>
+            }
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="login">Login</a>
+
+}

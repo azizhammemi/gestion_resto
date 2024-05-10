@@ -1,0 +1,819 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\.net\\gestionresto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\produit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\commandecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\commandecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\produitcommandeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\produitcommandeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\home\\ajoutercommande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\home\\ajoutercommande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\home\\deletecommande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\home\\deletecommande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\produitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\produit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\produit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\catprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\catprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\home\\_filteredproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\home\\_filteredproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\home\\listcommande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\home\\listcommande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\js\\pizza.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\wwwroot\\js\\pizza.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\categorie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\categorie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\models\\restocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\models\\restocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\commande\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\commande\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\commande\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\commande\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\models\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\models\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\commande\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\commande\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\.net\\gestionresto1\\gestionresto1\\Migrations\\20231204155006_commande-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestionresto1\\Migrations\\20231204155006_commande-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\login\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\login\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\categorie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\categorie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\produit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\produit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\produit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\produit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\home\\prod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\home\\prod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\gestionresto1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\gestionresto1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|g:\\.net\\gestionresto1\\gestionresto1\\migrations\\20231204160513_com.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9453BA-88DF-40B2-A85C-6A634F0A41F6}|gestionresto1\\gestionresto1.csproj|solutionrelative:gestionresto1\\migrations\\20231204160513_com.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\user\\Create.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\user\\Create.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\user\\Create.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\user\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T10:56:05.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Index.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Produit\\Index.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Index.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Produit\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T17:52:54.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginController.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\loginController.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\loginController.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\loginController.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\loginController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T11:59:24.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:02:49.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "commandeController.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\commandeController.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\commandeController.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\commandeController.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\commandeController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAYwHAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T16:10:57.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T18:15:45.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deletecommande.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\Deletecommande.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Home\\Deletecommande.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\Deletecommande.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Home\\Deletecommande.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T21:56:39.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T10:41:52.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ajoutercommande.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\ajoutercommande.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Home\\ajoutercommande.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\ajoutercommande.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Home\\ajoutercommande.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-04T19:05:17.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProduitCommandeViewModel.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\ProduitCommandeViewModel.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\ProduitCommandeViewModel.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\ProduitCommandeViewModel.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\ProduitCommandeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T18:20:41.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T12:08:41.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "userController.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\userController.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\userController.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\userController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAuwGoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:41:17.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProduitController.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\ProduitController.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\ProduitController.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\ProduitController.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\ProduitController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwFgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:23:02.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Create.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Produit\\Create.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Create.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Produit\\Create.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T11:27:30.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "catprod.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\catprod.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\catprod.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\catprod.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\catprod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T22:37:52.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAADwv3kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T10:41:39.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_FilteredProducts.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\_FilteredProducts.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Home\\_FilteredProducts.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\_FilteredProducts.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Home\\_FilteredProducts.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-11T23:18:07.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Models\\Produit.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\Produit.cs",
+              "RelativeToolTip": "gestionresto1\\Models\\Produit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:28:15.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "listcommande.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\listcommande.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Home\\listcommande.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\listcommande.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Home\\listcommande.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-05T19:59:28.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Program.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Program.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Program.cs",
+              "RelativeToolTip": "gestionresto1\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAWwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:06:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.js",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "gestionresto1\\wwwroot\\js\\site.js",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "gestionresto1\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-12-08T20:33:46.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "pizza.png",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\js\\pizza.png",
+              "RelativeDocumentMoniker": "gestionresto1\\wwwroot\\js\\pizza.png",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\js\\pizza.png",
+              "RelativeToolTip": "gestionresto1\\wwwroot\\js\\pizza.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2023-12-11T17:05:19.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-08T20:33:19.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "gestionresto1\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "gestionresto1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-08T20:33:34.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "gestionresto1\\wwwroot\\css\\site.css",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "gestionresto1\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-12-08T20:33:50.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T10:56:12.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\appsettings.json",
+              "RelativeDocumentMoniker": "gestionresto1\\appsettings.json",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\appsettings.json",
+              "RelativeToolTip": "gestionresto1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-01T11:02:32.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "gestionresto1\\ScaffoldingReadMe.txt",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "gestionresto1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-11-30T10:15:43.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "categorieController.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\categorieController.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Controllers\\categorieController.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Controllers\\categorieController.cs",
+              "RelativeToolTip": "gestionresto1\\Controllers\\categorieController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwDkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:46:48.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Models\\Categorie.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\Categorie.cs",
+              "RelativeToolTip": "gestionresto1\\Models\\Categorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:28:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\categorie\\Create.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\categorie\\Create.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\categorie\\Create.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\categorie\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T12:02:25.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Login\\login.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Login\\login.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Login\\login.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Login\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T11:47:53.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RestoContext.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\RestoContext.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Models\\RestoContext.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\RestoContext.cs",
+              "RelativeToolTip": "gestionresto1\\Models\\RestoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:12:38.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\commande\\Index.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\commande\\Index.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\commande\\Index.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\commande\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-04T16:13:15.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\commande\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\commande\\Delete.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\commande\\Delete.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\commande\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-05T19:36:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\Commande.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Models\\Commande.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\Commande.cs",
+              "RelativeToolTip": "gestionresto1\\Models\\Commande.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T15:41:36.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\commande\\Create.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\commande\\Create.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\commande\\Create.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\commande\\Create.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-04T16:14:57.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20231204160513_com.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Migrations\\20231204160513_com.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Migrations\\20231204160513_com.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Migrations\\20231204160513_com.cs",
+              "RelativeToolTip": "gestionresto1\\Migrations\\20231204160513_com.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T16:34:47.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20231204155006_commande-user.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Migrations\\20231204155006_commande-user.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Migrations\\20231204155006_commande-user.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Migrations\\20231204155006_commande-user.cs",
+              "RelativeToolTip": "gestionresto1\\Migrations\\20231204155006_commande-user.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T15:50:06.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "gestionresto1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:34:04.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Login\\Logout.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Login\\Logout.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Login\\Logout.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Login\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T15:39:06.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "gestionresto1\\Models\\User.cs",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Models\\User.cs",
+              "RelativeToolTip": "gestionresto1\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:28:11.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\categorie\\Index.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\categorie\\Index.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\categorie\\Index.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\categorie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T12:17:36.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Edit.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Produit\\Edit.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Edit.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Produit\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T12:08:42.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Produit\\Delete.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Produit\\Delete.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Produit\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-01T16:54:37.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "prod.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\prod.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Home\\prod.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Home\\prod.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Home\\prod.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T18:13:04.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T17:46:05.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "gestionresto1.csproj",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\gestionresto1.csproj",
+              "RelativeDocumentMoniker": "gestionresto1\\gestionresto1.csproj",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\gestionresto1.csproj",
+              "RelativeToolTip": "gestionresto1\\gestionresto1.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-30T16:25:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\user\\Index.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\user\\Index.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\user\\Index.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\user\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T10:53:38.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\user\\Delete.cshtml",
+              "RelativeDocumentMoniker": "gestionresto1\\Views\\user\\Delete.cshtml",
+              "ToolTip": "G:\\.net\\gestionresto1\\gestionresto1\\Views\\user\\Delete.cshtml",
+              "RelativeToolTip": "gestionresto1\\Views\\user\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-30T11:34:21.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

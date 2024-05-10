@@ -1,0 +1,20 @@
+﻿@model gestionresto1.Models.User
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm("Login", "login", FormMethod.Post))
+{
+    @Html.LabelFor(model => model.cin)
+    @Html.TextBoxFor(model => model.cin)
+
+    @Html.LabelFor(model => model.password)
+    @Html.PasswordFor(model => model.password)
+
+    <input type="submit" value="Login" />
+}
+
+<p>@ViewBag.ErrorMessage</p>

@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<gestionresto1.Models.Produit>
+
+@foreach (var product in Model)
+{
+    <div class="col-lg-4 col-md-6 col-sm-10 offset-md-0 offset-sm-1">
+        <div class="card">
+            <img class="card-img-top" src="@product.image">
+            <div class="card-body">
+                <h6 class="font-weight-bold pt-1">@product.name</h6>
+                <div class="text-muted description">@product.description</div>
+                <div class="text-muted description">@product.categrieId</div>
+
+                <div class="d-flex align-items-center product">
+                    <span class="fas fa-star"></span>
+                    <span class="fas fa-star"></span>
+                    <span class="fas fa-star"></span>
+                    <span class="fas fa-star"></span>
+                    <span class="far fa-star"></span>
+                </div>
+                <div class="d-flex align-items-center justify-content-between pt-3">
+                    <div class="d-flex flex-column">
+                        <div class="h6 font-weight-bold">@product.prix DT</div>
+                    </div>
+                    <a href="@Url.Action("ajoutercommande", new { id = product.idProduit })" class="btn btn-primary btn-warning">ajouter commande</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
